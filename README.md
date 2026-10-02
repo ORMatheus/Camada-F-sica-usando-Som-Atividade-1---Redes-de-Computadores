@@ -32,7 +32,7 @@ Sistema completo de comunicação digital que usa **ondas sonoras no ar** como m
 
 **Vídeo do Aluno:**
 
-[![Vídeo de demonstração do Aluno]([https://img.youtube.com/vi/ohmz_UvG6I4/hqdefault.jpg)](https://youtu.be/ohmz_UvG6I4](https://www.youtube.com/watch?v=ohmz_UvG6I4&feature=youtu.be))
+[![Vídeo de demonstração do Aluno](https://www.youtube.com/watch?v=ohmz_UvG6I4)
 
 
 > **TODO equipe:** substituir `ID_DO_VIDEO` pelo ID real do vídeo. O vídeo deve mostrar, **nos dois métodos**, um caso de **sucesso** e um caso de **falha**. Para provocar a falha, use a opção `--erro` (veja [Como executar](#como-executar)).
