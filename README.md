@@ -46,15 +46,7 @@ Roteiro sugerido para o vídeo:
 
 ## Equipe
 
-> **TODO equipe:** ma`Copyright (c) 2026 <nomes da equipe>` de todos os arquivos `.py`.
-
-| Nome | R.A. |
-|---|---|
-| \<nome\> | \<R.A.\> |
-| \<nome\> | \<R.A.\> |
-| \<nome\> | \<R.A.\> |
-| \<nome\> | \<R.A.\> |
-| \<nome\> | \<R.A.\> |
+> **TODO equipe:** Matheus rodrigues de Oliveira`Copyright (c) 2026 <nomes da equipe>` de todos os arquivos `.py`.
 
 ---
 
